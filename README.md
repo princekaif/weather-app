@@ -1,8 +1,8 @@
 
-# Weather App 🌦️
+# Weather App 🌦️ 
 
 The Weather App allows users to search for current weather and forecast data for any city. It fetches data from the OpenWeather API and displays it in a user-friendly format, including temperature, weather conditions, and a 5-day forecast.
-
+https://princekaif.github.io/weather-app/
 
 ## Features
 - 🌤 Current Weather: Displays temperature, weather conditions, and city name.

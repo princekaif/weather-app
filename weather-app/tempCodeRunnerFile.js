@@ -1,1 +1,0 @@
-const city = 'london';
